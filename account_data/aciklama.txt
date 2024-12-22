@@ -1,0 +1,15 @@
+ Bu çalışmada bir muhasebe sistemi için temel bir veritabanı tasarımı yaptım.
+
+ Kullanıcılar(users) tablosu sisteme giriş yapacak kullanıcıları (admin, muhasebeci gibi) tutar.
+
+ Müşteriler (clients) Tablosu -- Şirketin çalıştığı müşterileri kaydetmek için kullanılır.Müşterinin isim, e-posta, telefon ve adres bilgileri burada saklanır.
+
+  Ürünler ve Hizmetler (products) Tablosu --- Şirketin satışını yaptığı ürün veya hizmetleri kaydetmek için kullanılır
+
+  Faturalar (invoices) Tablosu---Müşterilere kesilen faturaları saklar.
+
+  Fatura Detayları (invoice_items) Tablosu--- Bir faturada yer alan ürün veya hizmetleri tutar.
+
+  Ödemeler (payments) Tablosu ----- Müşterilerden alınan ödemeleri saklar.
+
+  Giderler (expenses) Tablosu ----Şirketin yaptığı harcamaları kaydetmek için kullanılır.

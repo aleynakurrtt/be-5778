@@ -1,0 +1,15 @@
+Kullanıcılar (users) Tablosu --- Sisteme kayıtlı tüm kullanıcıları saklar.
+
+ Gönderiler (posts) Tablosu---Kullanıcıların yaptığı gönderileri saklar.
+
+ Yorumlar (comments) Tablosu---Gönderilere yapılan yorumları saklar.
+
+  Beğeniler (likes) Tablosu---Gönderilere yapılan beğenileri saklar.
+
+  Takipçiler (followers) Tablosu---Kullanıcıların birbirini takip etmesini yönetir.
+
+  Direkt Mesajlar (direct_messages) Tablosu---Kullanıcıların birbirine gönderdikleri özel mesajları saklar.
+
+  Hikayeler (stories) Tablosu---Kullanıcıların 24 saat içinde kaybolan hikayelerini saklar.
+
+  

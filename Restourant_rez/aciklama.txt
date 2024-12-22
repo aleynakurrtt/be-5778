@@ -1,0 +1,9 @@
+Kullanıcılar Tablosu (users)---Müşteri bilgilerini tutar.
+
+Rezervasyonlar Tablosu (reservations)---Restoranda yapılan rezervasyon bilgilerini tutar.
+
+Menü Tablosu (menus)---Restoran menüsündeki ürün bilgilerini tutar.
+
+ Siparişler Tablosu (orders)---Restoranda verilen sipariş bilgilerini tutar.
+
+ Sipariş Detayları Tablosu (order_items)---Bir siparişin içeriğini (hangi ürünlerden kaç adet sipariş edildiğini) tutar.
